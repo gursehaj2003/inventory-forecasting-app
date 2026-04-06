@@ -6,7 +6,7 @@ The application is deployed on the cloud and accessible through a public web lin
 
 Live Application: https://inventory-forecasting-app-hl3nekwuk5yu7w8rzu8kvl.streamlit.app
 
-GitHub Repository: https://github.com/Priyanshu/inventory-forecasting-app
+GitHub Repository: https://github.com/gursehaj2003/inventory-forecasting-app
 
 Project Objective:
 
