@@ -8,6 +8,8 @@ Live Application: https://inventory-forecasting-app-hl3nekwuk5yu7w8rzu8kvl.strea
 
 GitHub Repository: https://github.com/gursehaj2003/inventory-forecasting-app
 
+Live Demo :  https://drive.google.com/file/d/1AcMzIODWYlNdCh9uT-Y7LoPmw0Dw1zVJ/view?usp=sharing
+
 Project Objective:
 
 The main objective of this project is to analyze historical sales data, predict future demand using machine learning, monitor inventory risks, and present key business insights through a professional dashboard.
